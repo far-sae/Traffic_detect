@@ -7,7 +7,7 @@ import cv2
 detector = hub.load("https://tfhub.dev/tensorflow/ssd_mobilenet_v2/2")
 
 # Load class labels for COCO dataset
-LABELS_PATH = "/Users/farazsaeed/traffic_detection/models/coco.names"
+LABELS_PATH = "/coco.names"
 with open(LABELS_PATH, 'r') as f:
     classes = [line.strip() for line in f.readlines()]
 
