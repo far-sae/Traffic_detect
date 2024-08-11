@@ -26,7 +26,7 @@ Clone this repository:
 
    ` git clone  https://github.com/far-sae/Traffic_detect.gi`
 
-`cd traffic-detection`
+`cd Traffic-detect`
 
 Install the required Python packages:
 
