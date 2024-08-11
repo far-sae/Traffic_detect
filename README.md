@@ -24,7 +24,7 @@ The project includes the following files:
 
 Clone this repository:
 
-   ` git clone https://github.com/yourusername/traffic-detect.git`
+   ` git clone  https://github.com/far-sae/Traffic_detect.gi`
 
 `cd traffic-detection`
 
